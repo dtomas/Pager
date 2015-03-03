@@ -1,0 +1,17 @@
+			Pager
+			Shows miniatures of workspaces
+			by Dennis Tomas
+
+0.3
+~~~
+Added german i18n.
+Don't show windows in menu.
+
+0.2
+~~~
+Scale the pixbuf of menu images instead of resizing the image
+Added menu-item for showing the desktop
+
+0.1
+~~~
+Initial release

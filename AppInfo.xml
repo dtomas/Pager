@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<AppInfo>
+  <Summary xml:lang="en">Shows miniatures of workspaces</Summary>
+  <About xml:lang="en">
+    <Purpose>Shows miniatures of workspaces</Purpose>
+    <Version>0.2</Version>
+    <Authors>Dennis Tomas</Authors>
+    <License>GNU General Public License</License>
+  </About>
+</AppInfo>

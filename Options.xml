@@ -1,0 +1,8 @@
+<?xml version='1.0'?>
+<options>
+  <section title='Pager'>
+     <numentry name='size' label='Size (in %)' min='1' max='100'/>
+     <numentry min='1' max='4' name='n_rows' label='Number of rows'/>
+     <numentry name='n_workspaces' label='Number of workspaces' min='1' max='8'/>
+  </section>
+</options>

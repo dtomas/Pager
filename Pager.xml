@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type='text/xsl'
+     href='http://0install.net/2006/stylesheets/interface.xsl'?>
+
+<interface xmlns="http://zero-install.sourceforge.net/2004/injector/interface">
+  <name>Pager</name>
+  <summary>shows miniatures of all workspaces</summary>
+  <description>
+Pager shows miniatures of all workspaces
+  </description>
+
+  <icon href='ftp://ftp.berlios.de/pub/rox4debian/apps/Pager.png' type='image/png'/>
+
+  <feed-for interface='http://rox4debian.berlios.de/0install/Pager.xml'/>
+
+  <group main='AppRun'>
+    <requires interface="http://rox.sourceforge.net/2005/interfaces/ROX-Lib">
+      <environment insert="ROX-Lib2/python" name="PYTHONPATH"/>
+    </requires>
+    <requires interface="http://rox4debian.berlios.de/0install/Python-Wnck.xml">
+      <environment insert="Python-Wnck" name="PYTHONPATH"/>
+    </requires>
+    <implementation id="." version="0.1" released='Snapshot'/>
+  </group>
+</interface>

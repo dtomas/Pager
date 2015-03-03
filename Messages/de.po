@@ -1,0 +1,46 @@
+# Pager
+# Copyright (C) 2007 Dennis Tomas
+# Dennis Tomas <dtomas@users.berlios.de>, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Pager 0.3\n"
+"POT-Creation-Date: 2007-07-02 17:10+CEST\n"
+"PO-Revision-Date: 2007-07-02 17:04+ZONE\n"
+"Last-Translator: Dennis Tomas <dtomas@users.berlios.de>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: AppRun:8
+msgid "This is a panel applet. In order to use it, drag it to some panel."
+msgstr "Dies ist ein Panel-Applet. Um es zu benutzen, ziehe es auf ein Panel."
+
+#: pager.py:62
+msgid "Show Windows"
+msgstr "Fenster anzeigen"
+
+#: pager.py:65
+msgid "Show Desktop"
+msgstr "Desktop anzeigen"
+
+#: pager.py:102
+msgid "Are you sure you want to remove the Pager?"
+msgstr "Pager entfernen?"
+
+#: tips:1
+msgid "Pager"
+msgstr ""
+
+#: tips:2
+msgid "Size (in %)"
+msgstr "Größe (in %)"
+
+#: tips:3
+msgid "Number of rows"
+msgstr "Zeilen"
+
+#: tips:4
+msgid "Number of workspaces"
+msgstr "Arbeitsflächen"

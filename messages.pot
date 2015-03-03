@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2007-07-02 17:10+CEST\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: AppRun:8
+msgid "This is a panel applet. In order to use it, drag it to some panel."
+msgstr ""
+
+#: pager.py:62
+msgid "Show Windows"
+msgstr ""
+
+#: pager.py:65
+msgid "Show Desktop"
+msgstr ""
+
+#: pager.py:102
+msgid "Are you sure you want to remove the Pager?"
+msgstr ""
+
+#: tips:1
+msgid "Pager"
+msgstr ""
+
+#: tips:2
+msgid "Size (in %)"
+msgstr ""
+
+#: tips:3
+msgid "Number of rows"
+msgstr ""
+
+#: tips:4
+msgid "Number of workspaces"
+msgstr ""
+

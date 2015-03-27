@@ -7,7 +7,7 @@ icon_theme = g.icon_theme_get_default()
 class Pager(applet.Applet):
     def __init__(self, xid):
         applet.Applet.__init__(self, xid)
-        rox.setup_app_options("Pager", 'Options.xml', "rox4debian.berlios.de")
+        rox.setup_app_options("Pager", 'Options.xml', "dtomas")
         self.n_rows = options.Option("n_rows", 1)
         self.n_workspaces = options.Option("n_workspaces", 4)
         self.size = options.Option("size", 12)

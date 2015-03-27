@@ -3,7 +3,7 @@
   <Summary xml:lang="en">Shows miniatures of workspaces</Summary>
   <About xml:lang="en">
     <Purpose>Shows miniatures of workspaces</Purpose>
-    <Version>0.2</Version>
+    <Version>0.3.1</Version>
     <Authors>Dennis Tomas</Authors>
     <License>GNU General Public License</License>
   </About>

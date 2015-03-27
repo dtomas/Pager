@@ -1,6 +1,6 @@
 # Pager
 # Copyright (C) 2007 Dennis Tomas
-# Dennis Tomas <dtomas@users.berlios.de>, 2007.
+# Dennis Tomas <den.t@gmx.de>, 2007.
 #
 msgid ""
 msgstr ""

@@ -4,6 +4,7 @@
 
 0.3.1 (unreleased)
 ~~~~~
+Removed unused winmenu module.
 Corrected version number and Email address.
 
 0.3

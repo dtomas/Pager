@@ -2,7 +2,7 @@
 			Shows miniatures of workspaces
 			by Dennis Tomas
 
-0.3.1 (unreleased)
+0.3.1
 ~~~~~
 Removed unused winmenu module.
 Corrected version number and Email address.

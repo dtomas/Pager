@@ -1,14 +1,17 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
-import sys, os
+import os
+import sys
 
 app_dir = os.path.dirname(__file__)
 
 sys.path.insert(0, app_dir)
-sys.path.insert(0, os.path.join(app_dir, 'rox-lib', 'ROX-Lib2', 'python'))
+sys.path.insert(0, os.path.join(app_dir, 'rox-lib', 'ROX-Lib3', 'python'))
 
 import rox
+from pager import PagerWindow
 
 __builtins__._ = rox.i18n.translation(os.path.join(rox.app_dir, 'Messages'))
 
-rox.info(_("This is a panel applet. In order to use it, drag it to some panel."))
+pager = PagerWindow()
+rox.mainloop()

@@ -2,6 +2,10 @@
 			Shows miniatures of workspaces
 			by Dennis Tomas
 
+0.4 (unreleased)
+~~~
+Ported to Python3 and Gtk3.
+
 0.3.1
 ~~~~~
 Removed unused winmenu module.

@@ -1,3 +1,3 @@
 [submodule "rox-lib"]
 	path = rox-lib
-	url = git://repo.or.cz/rox-lib.git
+	url = https://github.com/rox-desktop/rox-lib.git
